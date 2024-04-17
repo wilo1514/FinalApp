@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1068157473922",
+    "project_id": "calculadorapublicitaria",
+    "storage_bucket": "calculadorapublicitaria.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068157473922:android:711ee546e121219c32d09b",
+        "android_client_info": {
+          "package_name": "com.example.finalapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP_8W8c-UUaiJaU6FWzhQUHm1r5d7pBeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
